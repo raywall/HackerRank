@@ -1,4 +1,4 @@
-# HackerRank
+# HackerRank Solutions
 
 - Big Sorting;
 - Insertion Sort (Part 1);
