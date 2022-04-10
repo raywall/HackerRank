@@ -24,9 +24,28 @@ class Result
 
     public static int runningTime(List<int> arr)
     {
-
+        int 
+            a = 0,
+            b = 0,
+            s = 0;
+            
+        for (a = 0, b = a + 1; b < arr.Count; a++, b++)
+        {
+            var tmp = arr[b];
+            var i = a;
+                        
+            while (i >= 0 && tmp < arr[i]) {
+                arr[i + 1] = arr[i--];
+                s++;
+            }
+                
+            arr[i + 1] = tmp;
+            
+            Console.WriteLine(string.Join(" ", arr));
+        }
+        
+        return s;
     }
-
 }
 
 class Solution
