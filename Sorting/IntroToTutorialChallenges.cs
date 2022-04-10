@@ -39,17 +39,17 @@ class Result
     private static List<int> Sort(List<int> arr, int left, int right)
     {
         int 
-            l = left, 
+            l = left,
             r = right;
-            
+        
         int pivot = arr[(left + right) / 2];
         
         while (true)
         {
-            while (arr[l] < pivot)
+            while (l >= 0 && arr[l] < pivot)
                 l++;
                 
-            while (pivot < arr[r])
+            while (r >= 0 && arr[r] > pivot)
                 r--;
                 
             if (l <= r)
@@ -57,10 +57,10 @@ class Result
                 var tmp = arr[l];
                 arr[l] = arr[r];
                 arr[r] = tmp;
-            
+                
                 l++;
                 r--;
-            }
+            }    
             
             else
                 break;
@@ -68,7 +68,7 @@ class Result
         
         if (left < r)
             Sort(arr, left, r);
-        
+            
         if (l < right)
             Sort(arr, l, right);
             
