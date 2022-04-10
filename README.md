@@ -1,9 +1,10 @@
 # HackerRank Solutions
 
 - Big Sorting;
+- Correctness and the Loop Invariant;
+- Counting Sort 1;
+- Counting Sort 2;
 - Insertion Sort (Part 1);
 - Insertion Sort (Part 2);
-- Correctness and the Loop Invariant;
-- Running Time of Algorithms;
 - Quicksort 1 (Partition);
-- Counting Sort 1;
+- Running Time of Algorithms;
