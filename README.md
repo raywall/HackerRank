@@ -5,6 +5,7 @@
 - Correctness and the Loop Invariant;
 - Counting Sort 1;
 - Counting Sort 2;
+- Find the Median;
 - Insertion Sort (Part 1);
 - Insertion Sort (Part 2);
 - Intro to Tutorial Challenges;
