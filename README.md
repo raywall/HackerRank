@@ -39,7 +39,7 @@
 - Intro to Tutorial Challenges;
 - Quicksort 1 (Partition);
 - Running Time of Algorithms;
-- The Full Counting Sort;
+- The Full Counting Sort; [Yellow text](Medium)
 
 ## Strings
 - Alternating Characters;
