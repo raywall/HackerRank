@@ -45,7 +45,7 @@
 - Alternating Characters;
 - Two Strings;
 
-## WarkUp
+## WarmUp
 - A Very Big Sum;
 - Birthday Cake Candles;
 - Compare the Triplets;
