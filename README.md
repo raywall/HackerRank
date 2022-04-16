@@ -38,6 +38,7 @@
 - Insertion Sort (Part 1);
 - Insertion Sort (Part 2);
 - Intro to Tutorial Challenges;
+- Lily's Homework;
 - Quicksort 1 (Partition);
 - Running Time of Algorithms;
 - The Full Counting Sort;
