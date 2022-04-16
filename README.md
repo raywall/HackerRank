@@ -45,6 +45,7 @@
 
 ## Strings
 - Alternating Characters;
+- CamelCase;
 - Two Strings;
 
 ## WarmUp
