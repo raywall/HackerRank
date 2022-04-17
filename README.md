@@ -1,18 +1,23 @@
-# HackerRank Solutions
+HackerRank Solutions
+====================
+|C#|  |Java 8|  |MS SQL|
 
-
-
-## Data Structures
-### Linked Lists
+Data Structures
+---------------
+Linked Lists
+^^^^^^^^^^^^
 - Delete a Node;
 
 
 
-## Java
-### Data Structures
+Java
+----
+Data Structures
+^^^^^^^^^^^^^^^
 - Java 1D Array;
 
-### Introduction
+Introduction
+^^^^^^^^^^^^
 - Java Currency Formatter;
 - Java DataTypes;
 - Java Date and Time;
@@ -26,7 +31,8 @@
 - Java Stdin and Stdout II;
 - Welcome to Java;
 
-### Strings
+Strings
+^^^^^^^
 - Java Anagrams;
 - Java String Reverse;
 - Java Strings Introduction;
@@ -35,18 +41,22 @@
 
 
 
-## Problem Solving
-### Construtive Algorithms
+Problem Solving
+---------------
+Construtive Algorithms
+^^^^^^^^^^^^^^^^^^^^^^
 - New Year Chaos;
 
-### Greedy
+Greedy
+^^^^^^
 - Grid Challenge;
 - Luck Balance;
 - Marc and Toys;
 - Marc's Cakewalk;
 - Minimum Absolute Difference in an Array;
 
-## Implementation
+Implementation
+^^^^^^^^^^^^^^
 - Apple and Orange;
 - Between Two Sets;
 - Breaking Records;
@@ -62,7 +72,8 @@
 - Organizing Containers of Balls;
 - Subarray Division;
 
-### Sorting
+Sorting
+^^^^^^^
 - Big Sorting;
 - Closest Numbers;
 - Correctness and the Loop Invariant;
@@ -78,12 +89,14 @@
 - Running Time of Algorithms;
 - The Full Counting Sort;
 
-### Strings
+Strings
+^^^^^^^
 - Alternating Characters;
 - CamelCase;
 - Two Strings;
 
-### WarmUp
+WarmUp
+^^^^^^
 - A Very Big Sum;
 - Birthday Cake Candles;
 - Compare the Triplets;
@@ -97,13 +110,16 @@
 
 
 
-## SQL
-### Advanced Select
+SQL
+---
+Advanced Select
+^^^^^^^^^^^^^^^
 - Occupations;
 - The Pads;
 - Type of Triangle;
 
-### Aggregation
+Aggregation
+^^^^^^^^^^^
 - Average Population;
 - Japan Population;
 - Population Density Difference;
@@ -122,17 +138,20 @@
 - Weather Observation Station 19;
 - Weather Observation Station 20;
 
-### Alternative Queries
+Alternative Queries
+^^^^^^^^^^^^^^^^^^^
 - Draw The Triangle I;
 - Draw The Triangle II;
 
-### Basic Join
+Basic Join
+^^^^^^^^^^
 - African Cities;
 - Average Population of Each Continent;
 - Population Census;
 - The Report;
 
-### Basic Select
+Basic Select
+^^^^^^^^^^^^
 - Employee Names;
 - Employee Salaries;
 - Higher Than 75 Marks;
