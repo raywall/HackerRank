@@ -1,0 +1,1 @@
+select distinct city from station where substring(city,1,1) not in ('A','E','I','O','U') and substring(city,len(city),1) not in ('a','e','i','o','u')

@@ -1,0 +1,1 @@
+SELECT DISTINCT City FROM Station WHERE SUBSTRING(City, LEN(City), 1) IN ('a','e','i','o','u') 

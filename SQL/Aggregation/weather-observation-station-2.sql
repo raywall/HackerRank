@@ -1,0 +1,1 @@
+select cast(sum(lat_n) as decimal(18, 2)), cast(sum(long_w) as decimal(18, 2)) from station

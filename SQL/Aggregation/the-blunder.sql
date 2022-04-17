@@ -1,0 +1,1 @@
+SELECT CEILING(AVG(Salary - CAST(REPLACE(CAST(Salary AS VARCHAR), '0', '') AS DECIMAL(18, 4)))) FROM Employees
