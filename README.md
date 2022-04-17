@@ -1,8 +1,10 @@
 # HackerRank Solutions
 
+
 ## Data Structures
 ### Linked Lists
 - Delete a Node;
+
 
 ## Problem Solving
 ### Construtive Algorithms
