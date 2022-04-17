@@ -1,10 +1,14 @@
 # HackerRank Solutions
 
+## Data Structures
+### Linked Lists
+- Delete a Node;
 
-## Construtive Algorithms
+## Problem Solving
+### Construtive Algorithms
 - New Year Chaos;
 
-## Greedy
+### Greedy
 - Grid Challenge;
 - Luck Balance;
 - Marc and Toys;
@@ -27,7 +31,7 @@
 - Organizing Containers of Balls;
 - Subarray Division;
 
-## Sorting
+### Sorting
 - Big Sorting;
 - Closest Numbers;
 - Correctness and the Loop Invariant;
@@ -43,12 +47,12 @@
 - Running Time of Algorithms;
 - The Full Counting Sort;
 
-## Strings
+### Strings
 - Alternating Characters;
 - CamelCase;
 - Two Strings;
 
-## WarmUp
+### WarmUp
 - A Very Big Sum;
 - Birthday Cake Candles;
 - Compare the Triplets;
