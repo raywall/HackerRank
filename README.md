@@ -52,7 +52,7 @@
 - Marc's Cakewalk;
 - Minimum Absolute Difference in an Array;
 
-## Implementation
+### Implementation
 - Apple and Orange;
 - Between Two Sets;
 - Breaking Records;
