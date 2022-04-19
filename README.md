@@ -2,6 +2,12 @@
 
 
 
+## Algorithms
+### Implementation
+- Angry Professor;
+
+
+
 ## Data Structures
 ### Linked Lists
 - Delete a Node;
